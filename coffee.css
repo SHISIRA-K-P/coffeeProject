@@ -1,0 +1,136 @@
+
+
+
+#a1{
+  width:100%;
+  height:500px;
+  /* background-image:url(./coffe/quotes/c3.jfif);
+  background-repeat: no-repeat;
+  background-size: cover; */
+  /* border:2px solid rgb(103, 40, 40); */
+
+}
+
+#a2{
+  width: 100%;
+  height: 60px;
+ background-color:rgb(60, 7, 7);
+color:white;
+font-size:larger;
+position: fixed;
+/* border:solid 2px red; */
+}
+
+img{
+  width: 100%;
+height:300px;
+/* padding-top:20px; */
+}
+#im1{
+  height:500px;
+}
+#im1:hover{
+  height:520px;
+  border:2px solid rgb(65, 24, 24);
+}
+
+body{
+   background-color: rgb(117, 59, 59); 
+}
+
+.a3{
+  width: 100%;
+  height:800 px;
+  padding: 2PX;
+ 
+background-color:rgb(60, 7, 7);
+color:white;
+font-size:larger;
+
+
+/* border:solid 2px red; */
+}
+.c1{
+  width: 90%;
+  height:830 px;
+  padding: 2PX;
+ 
+/* background-color:rgb(211, 109, 109); */
+color:rgb(8, 165, 213);
+font-size:xx-large;
+font-size: larger;
+
+
+margin-left: 112px;
+margin-top: 100px;
+}
+
+.col-11{
+  height: 600px;
+  width: 40%;
+  border-color: rgb(215, 208, 208);
+  font-size: larger;
+  padding: 2px;
+  text-align: center;
+}
+.col-12{
+  height: 600px;
+  width:40%;
+  margin-top: -533px;
+    margin-left: 769px;
+}
+
+h3{
+  color: rgb(232, 132, 132);
+}
+
+.row{
+  width:100%;
+  height:400px;
+  /* background-color: aquamarine; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display:flex;
+  /* justify-content: space-between; */
+   justify-content: space-evenly; 
+   /* justify-content: space-around;  */
+  /* justify-content: end; */
+  /* justify-content: start; */
+  align-items: center;
+}
+
+
+
+.col{
+   width: 15%;;
+  height:250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-color: black 2px solid;
+  /* background-color: cadetblue; */
+}
+
+.col:hover{
+  width: 16%;
+  background-color: rgb(11, 55, 40);
+  border-color: rgb(90, 86, 86) 2px solid;
+}
+
+#s1:hover{
+  color:blueviolet
+}
+#s2:hover{
+  font-family: 'Times New Roman', Times, serif;
+  color: aliceblue;
+}
+
+
+.s3{
+  padding: 20px;
+  height: 218px;
+    width: 233px;
+  background-color: rgb(229, 155, 155);
+  border:2px solid rgb(10, 4, 4);
+  margin-left: 500px;
+  text-align: center;
+  border-radius: 30px;
+}
+
